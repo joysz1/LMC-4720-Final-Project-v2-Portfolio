@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/RoomScene.unity
+    guid: b1650f1de70bf4d409726da9ca05ba94
+  - enabled: 1
+    path: Assets/Scenes/openingScreen.unity
+    guid: 80452fd61dc68a946b4de98a07e97ca3
+  - enabled: 1
+    path: Assets/Scenes/JoyRoomScene.unity
+    guid: c26b55f8c46cc0c4285d58ee95876feb
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Moon.unity
+    guid: b1c3e1bf68849ee4195603987c4842c0
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/CowJumping.unity
+    guid: 38ae23532930e0b41bae91e6e3d10877
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Red Balloon.unity
+    guid: 632939d01bd75ba4f9a3f41da48ea36e
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/ThreeBears.unity
+    guid: d60aa909adfdf454cba01eb30142df92
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Kittens.unity
+    guid: 15b32697cd5e62345a18dc8ab31cf9fc
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Mittens.unity
+    guid: 552f060125cd5f04f85ac29ea371f5e4
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Clock.unity
+    guid: 7c35b0a2b5e0ff94b8d859bbc4120310
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Socks.unity
+    guid: 88abe40a001531d45a09dda75e0bc8cf
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Dollhouse.unity
+    guid: d5ca1eda45f04e744b19a50400cc09ed
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Mouse.unity
+    guid: 49b95306b2716ff45ba8d001f41f3f79
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Comb.unity
+    guid: 3bec106e067d77448a1a2ad650fe41a2
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Brush.unity
+    guid: 7cbc9a5d2fc23144b818d0a1a96cffcb
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Mush.unity
+    guid: 470ea03694b5466428ab8bfb8154e801
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/OldLady.unity
+    guid: 92f5d29441b6dba42b2a43878d98e4b6
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Stars.unity
+    guid: b2f1996d9d4d52e44aa3a809474b2332
+  - enabled: 1
+    path: Assets/Scenes/Goodnight Scenes/Lamp.unity
+    guid: d2de0ee7e45cd9c48b9df4289b09d911
+  - enabled: 1
+    path: Assets/Scenes/SandBox.unity
+    guid: 9380fcd41665147068f133a49a8f9a58
+  - enabled: 1
+    path: Assets/Scenes/Conclusion.unity
+    guid: 869396bf8f9dcf243a791154816a4b70
+  m_configObjects: {}
